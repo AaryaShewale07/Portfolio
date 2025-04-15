@@ -4,7 +4,7 @@ Welcome to my personal portfolio! This website showcases who I am, what I do, an
 
 ## 🔗 Live Website
 **[Click here to view the live portfolio](https://portfolio-mu-blond-42.vercel.app/)**  
-(Replace with deployed URL when hosted, e.g., GitHub Pages, Vercel, Netlify)
+
 
 ---
 
